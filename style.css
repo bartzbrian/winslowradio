@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+    text-align: center;
+    color: rgb(44, 36, 9);
+    font-size: 16px;
+
+}
+
+#body-container {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+
+img {
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+
+a {
+    text-decoration:underline;
+    color: rgb(44, 36, 9);
+
+}
+
+i,a {
+    color: rgb(17, 92, 0);
+}
+
+#player {
+    width: 50%;
+    padding: 4px;
+    margin: 50px auto 50px auto;
+    display: block;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
